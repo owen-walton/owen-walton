@@ -1,4 +1,4 @@
-<h1 align="center">Hi, my name is Owen. <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" height=30px></picture></h1>
+<h1 align="center">Hi, my name is Owen. <picture><img src="images/shadow.gif/" height=30px></picture></h1>
 <h3 align="center">17 year old Programmer.</h3>
 <div align="center">
 <a href="https://www.linkedin.com/in/owen-walton6/"><img src="images/LinkedInLogo.png" alt="LinkedIn Profile" height="40"></a>
