@@ -10,9 +10,15 @@
 
 <h3 align="center">Technologies Learned:</h3>
 <div align="center">
-<a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-%230073A8.svg?color=%2306618f&style=flat-square&logo=java&logoColor=white" alt="Java" height="30"></a>
+<a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-%230073A8.svg?color=%2306618f&style=flat-square&logoColor=white" alt="Java" height="30"></a>
 &nbsp;&nbsp;
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%230073A8.svg?color=%23063557&style=flat-square&logo=python&logoColor=white" alt="Python" height="30"></a>
 &nbsp;&nbsp;
 <a href="https://www.w3schools.com/html/"><img src="https://img.shields.io/badge/HTML-%230073A8.svg?color=%23c90a40&style=flat-square&logo=HTML5&logoColor=white" alt="HTML" height="30"></a>
+&nbsp;&nbsp;
+<a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/CSS-%230073A8.svg?color=%238c3dad&style=flat-square&logo=css3&logoColor=white" alt="CSS" height="30"></a>
+&nbsp;&nbsp;
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-%230073A8.svg?color=%23b52a21&style=flat-square&logo=git&logoColor=white" alt="Git" height="30"></a>
+&nbsp;&nbsp;
+<a href="https://github.com/"><img src="https://img.shields.io/badge/Github-%230073A8.svg?color=%23000000&style=flat-square&logo=github&logoColor=white" alt="Github" height="30"></a>
 </div>
