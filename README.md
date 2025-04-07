@@ -27,4 +27,5 @@
 
 <h2></h2>
 <h1 align="center">Programming Projects:</h1>
-<h3 align="center"><img src="images/pin.svg" alt="" height="15">  <a href="https://github.com/owen-walton/sports-league">Sports League</a></h3>
+<h3 align="center"><img src="images/pin.png" alt="" height="15">  <a href="https://github.com/owen-walton/sports-league">Sports League</a></h3>
+<h3 align="center"><a href="https://github.com/owen-walton/motors-management-system">Motors Management System</a></h3>
