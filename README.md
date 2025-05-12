@@ -14,13 +14,15 @@
 &nbsp;&nbsp;
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%230073A8.svg?color=%23063557&style=flat-square&logo=python&logoColor=white" alt="Python" height="30"></a>
 &nbsp;&nbsp;
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/SQL-%230073A8.svg?color=%23f0c21d&style=flat-square&logo=sqlite&logoColor=black" alt="SQL" height="30"></a>
+&nbsp;&nbsp;
 <a href="https://www.w3schools.com/html/"><img src="https://img.shields.io/badge/HTML-%230073A8.svg?color=%23c90a40&style=flat-square&logo=HTML5&logoColor=white" alt="HTML" height="30"></a>
 &nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/CSS-%230073A8.svg?color=%238c3dad&style=flat-square&logo=css3&logoColor=white" alt="CSS" height="30"></a>
 &nbsp;&nbsp;
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-%230073A8.svg?color=%23b52a21&style=flat-square&logo=git&logoColor=white" alt="Git" height="30"></a>
 &nbsp;&nbsp;
-<a href="https://maven.apache.org/"><img src="https://img.shields.io/badge/Maven-%230073A8.svg?color=%23ba0f04&style=flat-square&logo=apache maven&logoColor=white" alt="Maven" height="30"></a>
+<a href="https://maven.apache.org/"><img src="https://img.shields.io/badge/Maven-%230073A8.svg?color=%23ba0f04&style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" height="30"></a>
 &nbsp;&nbsp;
 <a href="https://github.com/"><img src="https://img.shields.io/badge/Github-%230073A8.svg?color=%23000000&style=flat-square&logo=github&logoColor=white" alt="Github" height="30"></a>
 </div>
