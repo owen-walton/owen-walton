@@ -1,14 +1,13 @@
 <h1 align="center">Owen Walton:</h1>
 <h3 align="center">17 year old Programmer.</h3>
 <div align="center">
-<a href="https://www.linkedin.com/in/owen-walton6/"><img src="images/LinkedInLogo.png" alt="LinkedIn Profile" height="40"></a>
+<a href="https://www.linkedin.com/in/owen-walton6/"><img src="images/LinkedInLogo.png" alt="LinkedIn Profile" height="27"></a>
 <a href="https://www.github.com/owen-walton/"><img src="https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white" alt="Github Profile" height="40"></a>
 <a href="mailto:odwalton07@gmail.com"><img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"></a>
 </div>
 <h2></h2>
-<h1 align="center">Skills:</h1>
 
-<h3 align="center">Proficient In:</h3>
+<h3 align="center">Skills:</h3>
 <div align="center">
 <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-%230073A8.svg?color=%2306618f&style=flat-square&logoColor=white" alt="Java" height="30"></a>
 &nbsp;&nbsp;
@@ -24,9 +23,3 @@
 &nbsp;&nbsp;
 <a href="https://github.com/"><img src="https://img.shields.io/badge/Github-%230073A8.svg?color=%23000000&style=flat-square&logo=github&logoColor=white" alt="Github" height="30"></a>
 </div>
-
-<h2></h2>
-<h1 align="center">Programming Projects:</h1>
-<h4 align="center"><img src="images/pin.png" alt="" height="15">  <a href="https://github.com/owen-walton/hotel-management-system">Hotel Management System</a><i> (Most advanced)</i></h4>
-<h4 align="center"><a href="https://github.com/owen-walton/sports-league">Sports League</a></h4>
-<h4 align="center"><a href="https://github.com/owen-walton/motors-management-system">Motors Management System</a></h4>
