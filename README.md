@@ -1,5 +1,5 @@
 <h1 align="center">Owen Walton:</h1>
-<h3 align="center">17 year old Programmer.</h3>
+<h3 align="center">18 year old Programmer.</h3>
 <div align="center">
 <a href="https://www.linkedin.com/in/owen-walton6/"><img src="images/LinkedInLogo.png" alt="LinkedIn Profile" height="27"></a>
 <a href="https://www.github.com/owen-walton/"><img src="https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white" alt="Github Profile" height="40"></a>
